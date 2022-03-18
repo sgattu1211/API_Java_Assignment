@@ -1,6 +1,6 @@
 # API_Java_Assignment
 
-1. Download Zip file
+1. Download Same Test Zip file
 2. Unzip the project
 3. Open Eclipse and Import Project
 4. Build Solution
